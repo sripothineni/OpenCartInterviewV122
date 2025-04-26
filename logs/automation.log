@@ -1,5 +1,15 @@
-18:20:45.854 [main] INFO  testCases.TC003_LoginDDT - ***************** Starting testcase TC003_LoginDDT ******************
-18:20:45.862 [main] INFO  testCases.TC003_LoginDDT - ***************** Starting testcase TC003_LoginDDT ******************
-18:20:48.959 [main] INFO  testCases.TC003_LoginDDT - ***************** Starting testcase TC003_LoginDDT ******************
-18:20:48.961 [main] INFO  testCases.TC003_LoginDDT - ***************** Starting testcase TC003_LoginDDT ******************
-18:20:59.841 [main] INFO  testCases.TC003_LoginDDT - ***************** Starting testcase TC003_LoginDDT ******************
+10:19:39.038 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:19:39.062 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:19:39.063 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:19:39.063 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:19:39.077 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:19:39.109 [main] INFO  testCases.TC003_LoginDDT - ***************** Starting testcase TC003_LoginDDT ******************
+10:19:42.501 [main] INFO  testCases.TC003_LoginDDT - ***************** Starting testcase TC003_LoginDDT ******************
+10:19:42.516 [main] INFO  testCases.TC003_LoginDDT - ***************** Starting testcase TC003_LoginDDT ******************
+10:19:54.227 [main] INFO  testCases.TC003_LoginDDT - ***************** Starting testcase TC003_LoginDDT ******************
+10:19:54.230 [main] INFO  testCases.TC003_LoginDDT - ***************** Starting testcase TC003_LoginDDT ******************
+10:20:06.373 [main] INFO  testCases.TC003_LoginDDT - ***************** Starting testcase TC003_LoginDDT ******************
+10:20:06.379 [main] INFO  testCases.TC003_LoginDDT - ***************** Starting testcase TC003_LoginDDT ******************
+10:20:10.133 [main] INFO  testCases.TC003_LoginDDT - ***************** Starting testcase TC003_LoginDDT ******************
+10:20:10.137 [main] INFO  testCases.TC003_LoginDDT - ***************** Starting testcase TC003_LoginDDT ******************
+10:20:22.251 [main] INFO  testCases.TC003_LoginDDT - ***************** Starting testcase TC003_LoginDDT ******************
