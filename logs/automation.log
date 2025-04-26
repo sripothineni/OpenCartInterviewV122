@@ -4,3 +4,15 @@
 
 11:31:57.014 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************verify_Account_Registration*********************
 11:31:59.433 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************verify_Account_Registration :: Message is matching validation Passed*********************
+15:45:29.572 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Sreenath\September\February\OpenCartInterviewV122\testng.xml"
+15:45:29.805 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Sreenath\September\February\OpenCartInterviewV122\testng.xml
+
+15:45:33.489 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************verify_Account_Registration*********************
+15:45:35.518 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************verify_Account_Registration :: Message is matching validation Passed*********************
+15:47:16.682 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Sreenath\September\February\OpenCartInterviewV122\testng.xml"
+15:47:16.957 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Sreenath\September\February\OpenCartInterviewV122\testng.xml
+
+15:47:20.480 [main] INFO  testCases.TC002_LoginTest - ********Starting verify_Login_Test**********
+15:47:22.182 [main] INFO  testCases.TC002_LoginTest - **********Finished verify_Login_Test*************
